@@ -1,2 +1,2 @@
 # TravelCompanyWebsite
-TRavel company website template
+Travel company website template
